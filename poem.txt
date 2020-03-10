@@ -2,4 +2,6 @@ pink
 blue 
 purple
 red
+yellow
+green
  the end of the poem
