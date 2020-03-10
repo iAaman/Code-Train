@@ -4,5 +4,6 @@ purple
 red
 yellow
 green
+chilli
 update 02
  the end of the poem
